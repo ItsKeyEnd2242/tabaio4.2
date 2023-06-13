@@ -1,0 +1,12 @@
+#body {
+    background: linear-gradient(95deg, pink 20%, white);
+}
+
+.search {
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
